@@ -1,0 +1,38 @@
+---
+layout: default
+title: Home
+---
+
+Welcome to the Linked Data Workshop of the KIDA Kon 2026 
+<br>
+<h2>Schedule:</h2>
+ <table>
+<thead><tr><td>Time</td>    <td>Topic</td> </tr></thead>
+
+<tr> <td>13:00 - 13:25</td> <td>Linked Data a hidden force? What it is and where to find it.</td> </tr>
+<tr><td> 13:30 - 13:55 </td><td>The Foundation of Linked Data and Knowledge Graphs: Whats behind the curtain?</td> </tr> 
+<tr><td>14:00 - 14:25   </td><td>Linked Data: Building on the shoulders of giants</td></tr>
+<tr><td>14:30 - 15:00</td> <td>RDF4Risk Assessment Toolkit </td> </tr>   
+</table>
+
+<h2>Tasks</h2>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Interesting Projects</h2>
+
+
+<ul>
+    <li>
+      <h2><a href="https://platform.vhp4safety.nl/">Virtual Human Platform</a></h2>
+    </li>
+    <li>
+      <h2><a href="https://www.nfdi.de">NFDI Consortia</a></h2>
+    </li>
+</ul>

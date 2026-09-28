@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "First Task: Linked data in the wild"
+date:   2026-09-19 14:13:58 +0200
+toc: true
+categories: jekyll update
+---
+
+
+
+
+## 1. Wikidata
+1. Please open Wikidata: [https://www.wikidata.org/wiki/Wikidata:Main_Page
+](https://www.wikidata.org/wiki/Wikidata:Main_Page
+)
+2. Go to the searchbar and type in what you like "..." e.g. apple, caffein. 
+
+- Be aware that you will find a lot of results. Wikidata is a huge resource including publications as well.   
+
+![Image]({{ site.baseurl }}/images/Screenshot1_Wikidata.png)
+ <figcaption>Figure 1 Screenshot of the Wikidata start page</figcaption>
+
+
+
+
+## 2. Ontology Looklup Services
+
+You can also check out ontology lookup services which store relevant terminology in the life science domain.
+
+1. Visit one of the following Look Up Services  
+- [Ontology LookUp Service by EBI]()
+- [Ontobee](https://ontobee.org/)
+- [Bioportal](https://bioportal.bioontology.org/)
+
+2. Search for a Fruit, Chemical or Organism of your favour.
+
+![Image]({{ site.baseurl }}/images/Screenshot2_OLS.png)
+ <figcaption>Figure 2 Screenshot of the OLS start page</figcaption>
