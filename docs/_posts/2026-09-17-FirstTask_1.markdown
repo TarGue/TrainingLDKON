@@ -17,7 +17,7 @@ categories: jekyll update
 
 - Be aware that you will find a lot of results. Wikidata is a huge resource including publications as well.   
 
-![Image]({{ site.baseurl }}/images/Screenshot1_Wikidata.png)
+![Image]({{ "/images/Screenshot1_Wikidata.png" | relative_url }})
  <figcaption>Figure 1 Screenshot of the Wikidata start page</figcaption>
 
 
@@ -28,11 +28,11 @@ categories: jekyll update
 You can also check out ontology lookup services which store relevant terminology in the life science domain.
 
 1. Visit one of the following Look Up Services  
-- [Ontology LookUp Service by EBI]()
+- [Ontology LookUp Service by EBI](https://www.ebi.ac.uk/ols4/)
 - [Ontobee](https://ontobee.org/)
 - [Bioportal](https://bioportal.bioontology.org/)
 
 2. Search for a Fruit, Chemical or Organism of your favour.
 
-![Image]({{ site.baseurl }}/images/Screenshot2_OLS.png)
+![Image]({{ "/images/Screenshot2_OLS.png" | relative_url }})
  <figcaption>Figure 2 Screenshot of the OLS start page</figcaption>
