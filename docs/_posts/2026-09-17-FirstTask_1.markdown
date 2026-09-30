@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Task: Linked data in the wild"
+title:  "First Task: Linked Data in the wild"
 date:   2026-09-19 14:13:58 +0200
 toc: true
 categories: jekyll update
